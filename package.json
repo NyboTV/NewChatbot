@@ -1,0 +1,21 @@
+{
+  "name": "gamebot",
+  "version": "3.0.0",
+  "description": "A Whatsapp Chatbot",
+  "main": "gamebot.js",
+  "scripts": {
+    "test": "node . --debug"
+  },
+  "author": "Nybo",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5",
+    "figlet": "^1.7.0",
+    "fs": "^0.0.1-security",
+    "mysql2": "^3.10.1",
+    "supports-color": "^8.1.1",
+    "whatsapp-web.js": "^1.24.0"
+  }
+}

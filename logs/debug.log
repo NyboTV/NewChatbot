@@ -1,0 +1,1987 @@
+[20-06-2024 - 23:39:02]-[debug] Column name modified in table users.
+[20-06-2024 - 23:39:02]-[debug] Column email modified in table users.
+[20-06-2024 - 23:39:02]-[debug] Column password modified in table users.
+[20-06-2024 - 23:39:03]-[debug] Column created_at modified in table users.
+[20-06-2024 - 23:39:03]-[debug] Column name modified in table bots.
+[20-06-2024 - 23:39:03]-[debug] Column premium modified in table bots.
+[20-06-2024 - 23:39:03]-[debug] Column db_host modified in table bots.
+[20-06-2024 - 23:39:03]-[debug] Column db_user modified in table bots.
+[20-06-2024 - 23:39:03]-[debug] Column db_password modified in table bots.
+[20-06-2024 - 23:39:03]-[debug] Column db_name modified in table bots.
+[20-06-2024 - 23:39:03]-[debug] Column db_port modified in table bots.
+[20-06-2024 - 23:39:03]-[debug] Column encryption_key modified in table bots.
+[20-06-2024 - 23:39:03]-[debug] Column created_at modified in table bots.
+[20-06-2024 - 23:39:04]-[debug] Column name modified in table users.
+[20-06-2024 - 23:39:04]-[debug] Column name modified in table users.
+[20-06-2024 - 23:39:04]-[debug] Column email modified in table users.
+[20-06-2024 - 23:39:04]-[debug] Column email modified in table users.
+[20-06-2024 - 23:39:04]-[debug] Column password modified in table users.
+[20-06-2024 - 23:39:04]-[debug] Column password modified in table users.
+[20-06-2024 - 23:39:04]-[debug] Column created_at modified in table users.
+[20-06-2024 - 23:39:04]-[debug] Column created_at modified in table users.
+[20-06-2024 - 23:39:04]-[debug] Column name modified in table bots.
+[20-06-2024 - 23:39:04]-[debug] Column name modified in table bots.
+[20-06-2024 - 23:39:04]-[debug] Column premium modified in table bots.
+[20-06-2024 - 23:39:04]-[debug] Column premium modified in table bots.
+[20-06-2024 - 23:39:04]-[debug] Column db_host modified in table bots.
+[20-06-2024 - 23:39:04]-[debug] Column db_host modified in table bots.
+[20-06-2024 - 23:39:04]-[debug] Column db_user modified in table bots.
+[20-06-2024 - 23:39:04]-[debug] Column db_user modified in table bots.
+[20-06-2024 - 23:39:04]-[debug] Column db_password modified in table bots.
+[20-06-2024 - 23:39:04]-[debug] Column db_password modified in table bots.
+[20-06-2024 - 23:39:04]-[debug] Column db_name modified in table bots.
+[20-06-2024 - 23:39:04]-[debug] Column db_name modified in table bots.
+[20-06-2024 - 23:39:04]-[debug] Column db_port modified in table bots.
+[20-06-2024 - 23:39:04]-[debug] Column db_port modified in table bots.
+[20-06-2024 - 23:39:04]-[debug] Column encryption_key modified in table bots.
+[20-06-2024 - 23:39:04]-[debug] Column encryption_key modified in table bots.
+[20-06-2024 - 23:39:04]-[debug] Column created_at modified in table bots.
+[20-06-2024 - 23:39:04]-[debug] Column created_at modified in table bots.
+[20-06-2024 - 23:39:05]-[debug] Column name modified in table users.
+[20-06-2024 - 23:39:05]-[debug] Column email modified in table users.
+[20-06-2024 - 23:39:05]-[debug] Column password modified in table users.
+[20-06-2024 - 23:39:05]-[debug] Column created_at modified in table users.
+[20-06-2024 - 23:59:05]-[debug] Column name modified in table users.
+[20-06-2024 - 23:59:05]-[debug] Column email modified in table users.
+[20-06-2024 - 23:59:05]-[debug] Column password modified in table users.
+[20-06-2024 - 23:59:05]-[debug] Column created_at modified in table users.
+[20-06-2024 - 23:59:05]-[debug] Column name modified in table bots.
+[20-06-2024 - 23:59:05]-[debug] Column premium modified in table bots.
+[20-06-2024 - 23:59:05]-[debug] Column use_db added to table bots.
+[20-06-2024 - 23:59:05]-[debug] Column db_host modified in table bots.
+[20-06-2024 - 23:59:05]-[debug] Column db_user modified in table bots.
+[20-06-2024 - 23:59:05]-[debug] Column db_password modified in table bots.
+[20-06-2024 - 23:59:05]-[debug] Column db_name modified in table bots.
+[20-06-2024 - 23:59:05]-[debug] Column db_port modified in table bots.
+[20-06-2024 - 23:59:05]-[debug] Column projectName added to table bots.
+[20-06-2024 - 23:59:05]-[debug] Column encryption_key modified in table bots.
+[20-06-2024 - 23:59:05]-[debug] Column created_at modified in table bots.
+[20-06-2024 - 00:00:41]-[debug] Column name modified in table users.
+[20-06-2024 - 00:00:42]-[debug] Column email modified in table users.
+[20-06-2024 - 00:00:42]-[debug] Column password modified in table users.
+[20-06-2024 - 00:00:42]-[debug] Column created_at modified in table users.
+[20-06-2024 - 00:00:42]-[debug] Column name modified in table bots.
+[20-06-2024 - 00:00:42]-[debug] Column premium modified in table bots.
+[20-06-2024 - 00:00:42]-[debug] Column use_db modified in table bots.
+[20-06-2024 - 00:00:42]-[debug] Column db_host modified in table bots.
+[20-06-2024 - 00:00:43]-[debug] Column db_user modified in table bots.
+[20-06-2024 - 00:00:43]-[debug] Column db_password modified in table bots.
+[20-06-2024 - 00:00:43]-[debug] Column db_name modified in table bots.
+[20-06-2024 - 00:00:43]-[debug] Column db_port modified in table bots.
+[20-06-2024 - 00:00:43]-[debug] Column projectName modified in table bots.
+[20-06-2024 - 00:00:43]-[debug] Column encryption_key modified in table bots.
+[20-06-2024 - 00:00:43]-[debug] Column created_at modified in table bots.
+[20-06-2024 - 00:00:44]-[debug] Column name modified in table users.
+[20-06-2024 - 00:00:44]-[debug] Column name modified in table users.
+[20-06-2024 - 00:00:44]-[debug] Column email modified in table users.
+[20-06-2024 - 00:00:44]-[debug] Column password modified in table users.
+[20-06-2024 - 00:00:45]-[debug] Column created_at modified in table users.
+[20-06-2024 - 00:00:45]-[debug] Column email modified in table users.
+[20-06-2024 - 00:00:45]-[debug] Column password modified in table users.
+[20-06-2024 - 00:00:45]-[debug] Column created_at modified in table users.
+[20-06-2024 - 00:00:45]-[debug] Column name modified in table bots.
+[20-06-2024 - 00:00:45]-[debug] Column name modified in table bots.
+[20-06-2024 - 00:00:45]-[debug] Column premium modified in table bots.
+[20-06-2024 - 00:00:45]-[debug] Column premium modified in table bots.
+[20-06-2024 - 00:00:45]-[debug] Column use_db modified in table bots.
+[20-06-2024 - 00:00:45]-[debug] Column use_db modified in table bots.
+[20-06-2024 - 00:00:45]-[debug] Column db_host modified in table bots.
+[20-06-2024 - 00:00:45]-[debug] Column db_host modified in table bots.
+[20-06-2024 - 00:00:45]-[debug] Column db_user modified in table bots.
+[20-06-2024 - 00:00:45]-[debug] Column db_user modified in table bots.
+[20-06-2024 - 00:00:45]-[debug] Column db_password modified in table bots.
+[20-06-2024 - 00:00:45]-[debug] Column db_password modified in table bots.
+[20-06-2024 - 00:00:45]-[debug] Column db_name modified in table bots.
+[20-06-2024 - 00:00:45]-[debug] Column db_name modified in table bots.
+[20-06-2024 - 00:00:45]-[debug] Column db_port modified in table bots.
+[20-06-2024 - 00:00:46]-[debug] Column db_port modified in table bots.
+[20-06-2024 - 00:00:46]-[debug] Column projectName modified in table bots.
+[20-06-2024 - 00:00:46]-[debug] Column projectName modified in table bots.
+[20-06-2024 - 00:00:46]-[debug] Column encryption_key modified in table bots.
+[20-06-2024 - 00:00:46]-[debug] Column encryption_key modified in table bots.
+[20-06-2024 - 00:00:46]-[debug] Column created_at modified in table bots.
+[20-06-2024 - 00:00:46]-[debug] Column created_at modified in table bots.
+[20-06-2024 - 00:00:47]-[debug] Column name modified in table users.
+[20-06-2024 - 00:00:47]-[debug] Column email modified in table users.
+[20-06-2024 - 00:00:47]-[debug] Column password modified in table users.
+[20-06-2024 - 00:00:47]-[debug] Column created_at modified in table users.
+[20-06-2024 - 00:02:43]-[debug] Column name modified in table users.
+[20-06-2024 - 00:02:43]-[debug] Column email modified in table users.
+[20-06-2024 - 00:02:43]-[debug] Column password modified in table users.
+[20-06-2024 - 00:02:43]-[debug] Column created_at modified in table users.
+[20-06-2024 - 00:02:43]-[debug] Column name modified in table bots.
+[20-06-2024 - 00:02:43]-[debug] Column premium modified in table bots.
+[20-06-2024 - 00:02:43]-[debug] Column use_db modified in table bots.
+[20-06-2024 - 00:02:43]-[debug] Column db_host modified in table bots.
+[20-06-2024 - 00:02:43]-[debug] Column db_user modified in table bots.
+[20-06-2024 - 00:02:43]-[debug] Column db_password modified in table bots.
+[20-06-2024 - 00:02:43]-[debug] Column db_name modified in table bots.
+[20-06-2024 - 00:02:43]-[debug] Column db_port modified in table bots.
+[20-06-2024 - 00:02:43]-[debug] Column projectName modified in table bots.
+[20-06-2024 - 00:02:43]-[debug] Column encryption_key modified in table bots.
+[20-06-2024 - 00:02:43]-[debug] Column created_at modified in table bots.
+[20-06-2024 - 00:02:44]-[debug] Column name modified in table users.
+[20-06-2024 - 00:02:44]-[debug] Column name modified in table users.
+[20-06-2024 - 00:02:44]-[debug] Column email modified in table users.
+[20-06-2024 - 00:02:44]-[debug] Column email modified in table users.
+[20-06-2024 - 00:02:44]-[debug] Column password modified in table users.
+[20-06-2024 - 00:02:44]-[debug] Column password modified in table users.
+[20-06-2024 - 00:02:44]-[debug] Column created_at modified in table users.
+[20-06-2024 - 00:02:44]-[debug] Column created_at modified in table users.
+[20-06-2024 - 00:02:44]-[debug] Column name modified in table bots.
+[20-06-2024 - 00:02:44]-[debug] Column premium modified in table bots.
+[20-06-2024 - 00:02:44]-[debug] Column name modified in table bots.
+[20-06-2024 - 00:02:44]-[debug] Column use_db modified in table bots.
+[20-06-2024 - 00:02:44]-[debug] Column premium modified in table bots.
+[20-06-2024 - 00:02:44]-[debug] Column db_host modified in table bots.
+[20-06-2024 - 00:02:44]-[debug] Column use_db modified in table bots.
+[20-06-2024 - 00:02:44]-[debug] Column db_user modified in table bots.
+[20-06-2024 - 00:02:44]-[debug] Column db_host modified in table bots.
+[20-06-2024 - 00:02:44]-[debug] Column db_password modified in table bots.
+[20-06-2024 - 00:02:44]-[debug] Column db_user modified in table bots.
+[20-06-2024 - 00:02:44]-[debug] Column db_name modified in table bots.
+[20-06-2024 - 00:02:44]-[debug] Column db_password modified in table bots.
+[20-06-2024 - 00:02:44]-[debug] Column db_port modified in table bots.
+[20-06-2024 - 00:02:44]-[debug] Column db_name modified in table bots.
+[20-06-2024 - 00:02:44]-[debug] Column projectName modified in table bots.
+[20-06-2024 - 00:02:44]-[debug] Column db_port modified in table bots.
+[20-06-2024 - 00:02:44]-[debug] Column encryption_key modified in table bots.
+[20-06-2024 - 00:02:44]-[debug] Column projectName modified in table bots.
+[20-06-2024 - 00:02:44]-[debug] Column created_at modified in table bots.
+[20-06-2024 - 00:02:45]-[debug] Column encryption_key modified in table bots.
+[20-06-2024 - 00:02:45]-[debug] Column created_at modified in table bots.
+[20-06-2024 - 00:02:45]-[debug] Column name modified in table users.
+[20-06-2024 - 00:02:45]-[debug] Column email modified in table users.
+[20-06-2024 - 00:02:45]-[debug] Column password modified in table users.
+[20-06-2024 - 00:02:45]-[debug] Column created_at modified in table users.
+[20-06-2024 - 00:05:33]-[debug] Column name modified in table users.
+[20-06-2024 - 00:05:33]-[debug] Column email modified in table users.
+[20-06-2024 - 00:05:33]-[debug] Column password modified in table users.
+[20-06-2024 - 00:05:33]-[debug] Column created_at modified in table users.
+[20-06-2024 - 00:05:33]-[debug] Column name modified in table bots.
+[20-06-2024 - 00:05:33]-[debug] Column premium modified in table bots.
+[20-06-2024 - 00:05:33]-[debug] Column use_db modified in table bots.
+[20-06-2024 - 00:05:33]-[debug] Column db_host modified in table bots.
+[20-06-2024 - 00:05:33]-[debug] Column db_user modified in table bots.
+[20-06-2024 - 00:05:33]-[debug] Column db_password modified in table bots.
+[20-06-2024 - 00:05:33]-[debug] Column db_name modified in table bots.
+[20-06-2024 - 00:05:33]-[debug] Column db_port modified in table bots.
+[20-06-2024 - 00:05:33]-[debug] Column projectName modified in table bots.
+[20-06-2024 - 00:05:33]-[debug] Column encryption_key modified in table bots.
+[20-06-2024 - 00:05:33]-[debug] Column created_at modified in table bots.
+[20-06-2024 - 00:05:34]-[debug] Column name modified in table users.
+[20-06-2024 - 00:05:34]-[debug] Column name modified in table users.
+[20-06-2024 - 00:05:34]-[debug] Column name modified in table bots.
+[20-06-2024 - 00:05:34]-[debug] Column name modified in table bots.
+[20-06-2024 - 00:05:34]-[debug] Column premium modified in table bots.
+[20-06-2024 - 00:05:34]-[debug] Column premium modified in table bots.
+[20-06-2024 - 00:05:34]-[debug] Column use_db modified in table bots.
+[20-06-2024 - 00:05:34]-[debug] Column use_db modified in table bots.
+[20-06-2024 - 00:05:34]-[debug] Column db_host modified in table bots.
+[20-06-2024 - 00:05:34]-[debug] Column db_host modified in table bots.
+[20-06-2024 - 00:05:34]-[debug] Column db_user modified in table bots.
+[20-06-2024 - 00:05:34]-[debug] Column db_user modified in table bots.
+[20-06-2024 - 00:05:34]-[debug] Column db_password modified in table bots.
+[20-06-2024 - 00:05:34]-[debug] Column db_password modified in table bots.
+[20-06-2024 - 00:05:34]-[debug] Column db_name modified in table bots.
+[20-06-2024 - 00:05:34]-[debug] Column db_name modified in table bots.
+[20-06-2024 - 00:05:34]-[debug] Column db_port modified in table bots.
+[20-06-2024 - 00:05:34]-[debug] Column db_port modified in table bots.
+[20-06-2024 - 00:05:34]-[debug] Column projectName modified in table bots.
+[20-06-2024 - 00:05:34]-[debug] Column projectName modified in table bots.
+[20-06-2024 - 00:05:34]-[debug] Column encryption_key modified in table bots.
+[20-06-2024 - 00:05:34]-[debug] Column encryption_key modified in table bots.
+[20-06-2024 - 00:05:34]-[debug] Column created_at modified in table bots.
+[20-06-2024 - 00:05:34]-[debug] Column created_at modified in table bots.
+[20-06-2024 - 00:05:35]-[debug] Column name modified in table users.
+[20-06-2024 - 00:05:35]-[debug] Column email modified in table users.
+[20-06-2024 - 00:05:35]-[debug] Column password modified in table users.
+[20-06-2024 - 00:05:35]-[debug] Column created_at modified in table users.
+[20-06-2024 - 00:11:47]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:11:47]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:11:47]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:11:47]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:11:47]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:11:47]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:11:47]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:11:47]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:11:48]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:11:48]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:11:48]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:11:48]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:11:48]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:11:48]-[debug] Spalte created_at in der Tabelle bots geändert.
+[20-06-2024 - 00:11:48]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:11:48]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:11:48]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:11:48]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:11:48]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:11:48]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:11:49]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:11:49]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:11:49]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:11:49]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:11:49]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:11:49]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:11:49]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:11:49]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:11:49]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:11:49]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:11:49]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:11:49]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:11:49]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:11:49]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:11:49]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:11:49]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:11:49]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:11:49]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:11:49]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:11:49]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:11:49]-[debug] Spalte created_at in der Tabelle bots geändert.
+[20-06-2024 - 00:11:49]-[debug] Spalte created_at in der Tabelle bots geändert.
+[20-06-2024 - 00:13:27]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:13:27]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:13:27]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:13:27]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:13:27]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:13:27]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:13:27]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:13:27]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:13:27]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:13:27]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:13:27]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:13:27]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:13:27]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:13:27]-[debug] Spalte created_at in der Tabelle bots geändert.
+[20-06-2024 - 00:13:28]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:13:28]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:13:28]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:13:28]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:13:28]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:13:28]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:13:28]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:13:28]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:13:28]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:13:28]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:13:28]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:13:28]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:13:28]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:13:28]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:13:28]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:13:28]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:13:28]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:13:28]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:13:28]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:13:28]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:13:28]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:13:28]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:13:28]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:13:28]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:13:29]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:13:29]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:13:29]-[debug] Spalte created_at in der Tabelle bots geändert.
+[20-06-2024 - 00:13:29]-[debug] Spalte created_at in der Tabelle bots geändert.
+[20-06-2024 - 00:14:26]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:14:26]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:14:26]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:14:26]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:14:26]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:14:26]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:14:26]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:14:26]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:14:26]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:14:26]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:14:26]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:14:26]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:14:26]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:14:26]-[debug] Spalte created_at in der Tabelle bots geändert.
+[20-06-2024 - 00:14:27]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:14:27]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:14:27]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:14:27]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:14:27]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:14:27]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:14:27]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:14:27]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:14:27]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:14:27]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:14:27]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:14:27]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:14:27]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:14:27]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:14:27]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:14:27]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:14:27]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:14:27]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:14:27]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:14:27]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:14:27]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:14:28]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:14:28]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:14:28]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:14:28]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:14:28]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:14:28]-[debug] Spalte created_at in der Tabelle bots geändert.
+[20-06-2024 - 00:14:28]-[debug] Spalte created_at in der Tabelle bots geändert.
+[20-06-2024 - 00:15:48]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:15:49]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:15:49]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:15:49]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:15:49]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:15:49]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:15:49]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:15:49]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:15:49]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:15:49]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:15:49]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:15:49]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:15:49]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:15:49]-[debug] Spalte created_at in der Tabelle bots geändert.
+[20-06-2024 - 00:15:50]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:15:50]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:15:50]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:15:50]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:15:50]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:15:50]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:15:50]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:15:50]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:15:50]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:15:50]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:15:50]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:15:50]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:15:50]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:15:50]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:15:50]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:15:50]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:15:50]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:15:50]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:15:50]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:15:50]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:15:50]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:15:50]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:15:50]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:15:50]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:15:50]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:15:50]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:15:50]-[debug] Spalte created_at in der Tabelle bots geändert.
+[20-06-2024 - 00:15:51]-[debug] Spalte created_at in der Tabelle bots geändert.
+[20-06-2024 - 00:16:48]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:16:48]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:16:48]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:16:48]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:16:48]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:16:48]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:16:48]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:16:48]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:16:49]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:16:49]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:16:49]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:16:49]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:16:49]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:16:49]-[debug] Spalte created_at in der Tabelle bots geändert.
+[20-06-2024 - 00:16:49]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:16:49]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:16:49]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:16:49]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:16:49]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:16:49]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:16:50]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:16:50]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:16:50]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:16:50]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:16:50]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:16:50]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:16:50]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:16:50]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:16:50]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:16:50]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:16:50]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:16:50]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:16:50]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:16:50]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:16:50]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:16:50]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:16:50]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:16:50]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:16:50]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:16:50]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:16:50]-[debug] Spalte created_at in der Tabelle bots geändert.
+[20-06-2024 - 00:16:50]-[debug] Spalte created_at in der Tabelle bots geändert.
+[20-06-2024 - 00:17:51]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:17:51]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:17:51]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:17:51]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:17:52]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:17:52]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:17:52]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:17:52]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:17:52]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:17:52]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:17:52]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:17:52]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:17:52]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:17:52]-[debug] Spalte created_at in der Tabelle bots geändert.
+[20-06-2024 - 00:17:52]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:17:52]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:17:52]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:17:52]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:17:52]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:17:52]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:17:53]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:17:53]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:17:53]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:17:53]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:17:53]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:17:53]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:17:53]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:17:53]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:17:53]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:17:53]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:17:53]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:17:53]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:17:53]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:17:53]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:17:53]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:17:53]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:17:53]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:17:53]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:17:53]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:17:53]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:17:53]-[debug] Spalte created_at in der Tabelle bots geändert.
+[20-06-2024 - 00:17:53]-[debug] Spalte created_at in der Tabelle bots geändert.
+[20-06-2024 - 00:18:11]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:18:11]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:18:11]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:18:11]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:18:11]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:18:11]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:18:11]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:18:11]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:18:11]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:18:11]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:18:11]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:18:11]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:18:11]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:18:11]-[debug] Spalte created_at in der Tabelle bots geändert.
+[20-06-2024 - 00:18:12]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:18:12]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:18:12]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:18:12]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:18:12]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:18:12]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:18:12]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:18:12]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:18:12]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:18:12]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:18:12]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:18:12]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:18:12]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:18:12]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:18:12]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:18:12]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:18:12]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:18:12]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:18:12]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:18:12]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:18:12]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:18:12]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:18:12]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:18:12]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:18:12]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:18:12]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:18:13]-[debug] Spalte created_at in der Tabelle bots geändert.
+[20-06-2024 - 00:18:13]-[debug] Spalte created_at in der Tabelle bots geändert.
+[20-06-2024 - 00:19:32]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:19:32]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:19:32]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:19:32]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:19:32]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:19:32]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:19:32]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:19:32]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:19:32]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:19:32]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:19:32]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:19:32]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:19:32]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:19:32]-[debug] Spalte created_at in der Tabelle bots geändert.
+[20-06-2024 - 00:19:33]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:19:33]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:19:33]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:19:33]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:19:33]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:19:33]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:19:33]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:19:33]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:19:33]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:19:33]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:19:33]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:19:33]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:19:33]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:19:33]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:19:33]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:19:33]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:19:33]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:19:33]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:19:33]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:19:33]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:19:33]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:19:33]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:19:33]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:19:34]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:19:34]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:19:34]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:19:34]-[debug] Spalte created_at in der Tabelle bots geändert.
+[20-06-2024 - 00:19:34]-[debug] Spalte created_at in der Tabelle bots geändert.
+[20-06-2024 - 00:19:43]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:19:43]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:19:44]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:19:44]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:19:44]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:19:44]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:19:44]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:19:44]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:19:44]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:19:44]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:19:44]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:19:44]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:19:44]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:19:44]-[debug] Spalte created_at in der Tabelle bots geändert.
+[20-06-2024 - 00:19:45]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:19:45]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:19:45]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:19:45]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:19:45]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:19:45]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:19:45]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:19:45]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:19:45]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:19:45]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:19:45]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:19:45]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:19:45]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:19:45]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:19:45]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:19:45]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:19:45]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:19:45]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:19:45]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:19:45]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:19:45]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:19:45]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:19:45]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:19:45]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:19:45]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:19:45]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:19:45]-[debug] Spalte created_at in der Tabelle bots geändert.
+[20-06-2024 - 00:19:45]-[debug] Spalte created_at in der Tabelle bots geändert.
+[20-06-2024 - 00:20:15]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:20:15]-[debug] Spalte email in der Tabelle users geändert.
+[20-06-2024 - 00:20:15]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:20:15]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:20:15]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:20:15]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:20:15]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:20:15]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:20:15]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:20:15]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:20:15]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:20:15]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:20:15]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:20:15]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:20:15]-[debug] Spalte created_at in der Tabelle bots geändert.
+[20-06-2024 - 00:20:16]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:20:16]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:20:16]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:20:16]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:20:16]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:20:16]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:20:16]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:20:16]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:20:16]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:20:16]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:20:16]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:20:16]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:20:16]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:20:16]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:20:16]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:20:16]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:20:16]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:20:17]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:20:17]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:20:17]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:20:17]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:20:17]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:20:17]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:20:17]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:20:17]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:20:17]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:20:17]-[debug] Spalte created_at in der Tabelle bots geändert.
+[20-06-2024 - 00:20:17]-[debug] Spalte created_at in der Tabelle bots geändert.
+[20-06-2024 - 00:20:26]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:20:26]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:20:26]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:20:27]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:20:27]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:20:27]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:20:27]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:20:27]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:20:27]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:20:27]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:20:27]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:20:27]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:20:27]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:20:27]-[debug] Spalte created_at in der Tabelle bots geändert.
+[20-06-2024 - 00:20:28]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:20:28]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:20:28]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:20:28]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:20:28]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:20:28]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:20:28]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:20:28]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:20:28]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:20:28]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:20:28]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:20:28]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:20:28]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:20:28]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:20:28]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:20:28]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:20:28]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:20:28]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:20:28]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:20:28]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:20:28]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:20:28]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:20:28]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:20:28]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:20:28]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:20:28]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:20:28]-[debug] Spalte created_at in der Tabelle bots geändert.
+[20-06-2024 - 00:20:28]-[debug] Spalte created_at in der Tabelle bots geändert.
+[20-06-2024 - 00:23:20]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:23:20]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:23:20]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:23:20]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:23:20]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:23:20]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:23:20]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:23:20]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:23:20]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:23:20]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:23:20]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:23:20]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:23:21]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:23:21]-[debug] Spalte created_at in der Tabelle bots geändert.
+[20-06-2024 - 00:23:21]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:23:21]-[debug] Spalte name in der Tabelle users geändert.
+[20-06-2024 - 00:23:21]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:23:21]-[debug] Spalte password in der Tabelle users geändert.
+[20-06-2024 - 00:23:21]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:23:21]-[debug] Spalte created_at in der Tabelle users geändert.
+[20-06-2024 - 00:23:21]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:23:22]-[debug] Spalte name in der Tabelle bots geändert.
+[20-06-2024 - 00:23:22]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:23:22]-[debug] Spalte premium in der Tabelle bots geändert.
+[20-06-2024 - 00:23:22]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:23:22]-[debug] Spalte use_db in der Tabelle bots geändert.
+[20-06-2024 - 00:23:22]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:23:22]-[debug] Spalte db_host in der Tabelle bots geändert.
+[20-06-2024 - 00:23:22]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:23:22]-[debug] Spalte db_user in der Tabelle bots geändert.
+[20-06-2024 - 00:23:22]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:23:22]-[debug] Spalte db_password in der Tabelle bots geändert.
+[20-06-2024 - 00:23:22]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:23:22]-[debug] Spalte db_name in der Tabelle bots geändert.
+[20-06-2024 - 00:23:22]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:23:22]-[debug] Spalte db_port in der Tabelle bots geändert.
+[20-06-2024 - 00:23:22]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:23:22]-[debug] Spalte projectName in der Tabelle bots geändert.
+[20-06-2024 - 00:23:22]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:23:22]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[20-06-2024 - 00:23:22]-[debug] Spalte created_at in der Tabelle bots geändert.
+[20-06-2024 - 00:23:22]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:12:22]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:12:22]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:12:22]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:12:22]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:12:22]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:12:22]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:12:22]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:12:22]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:12:22]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:12:22]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:12:22]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:12:22]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:12:22]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:12:22]-[debug] Spalte add_mode zur Tabelle bots hinzugefügt.
+[21-06-2024 - 13:12:22]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:12:35]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:12:36]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:12:36]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:12:36]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:12:36]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:12:36]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:12:36]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:12:36]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:12:36]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:12:36]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:12:36]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:12:36]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:12:36]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:12:36]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:12:36]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:12:37]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:12:37]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:12:37]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:12:37]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:12:37]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:12:37]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:12:37]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:12:37]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:12:37]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:12:37]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:12:37]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:12:37]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:12:37]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:12:37]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:12:37]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:12:37]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:12:37]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:12:37]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:12:37]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:12:37]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:12:38]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:12:38]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:12:38]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:12:38]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:12:38]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:12:38]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:12:38]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:12:38]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:12:38]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:12:38]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:13:00]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:13:00]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:13:00]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:13:00]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:13:00]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:13:00]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:13:00]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:13:00]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:13:00]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:13:00]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:13:00]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:13:00]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:13:00]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:13:00]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:13:00]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:13:01]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:13:01]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:13:01]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:13:01]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:13:01]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:13:01]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:13:02]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:13:02]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:13:02]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:13:02]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:13:02]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:13:02]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:13:02]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:13:02]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:13:02]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:13:02]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:13:02]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:13:02]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:13:02]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:13:02]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:13:02]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:13:02]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:13:02]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:13:02]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:13:02]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:13:02]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:13:02]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:13:02]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:13:02]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:13:02]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:13:32]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:13:32]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:13:32]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:13:32]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:13:32]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:13:32]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:13:32]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:13:32]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:13:32]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:13:32]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:13:32]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:13:32]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:13:32]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:13:33]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:13:33]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:13:34]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:13:34]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:13:34]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:13:34]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:13:34]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:13:34]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:13:34]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:13:34]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:13:34]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:13:34]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:13:34]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:13:34]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:13:34]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:13:34]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:13:34]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:13:34]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:13:34]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:13:34]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:13:34]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:13:34]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:13:34]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:13:34]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:13:34]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:13:34]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:13:34]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:13:34]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:13:34]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:13:34]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:13:34]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:13:34]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:13:53]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:13:53]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:13:53]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:14:27]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:14:28]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:14:28]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:14:28]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:14:28]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:14:28]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:14:28]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:14:28]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:14:28]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:14:28]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:14:28]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:14:28]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:14:28]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:14:28]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:14:28]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:14:29]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:14:29]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:14:29]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:14:29]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:14:29]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:14:29]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:14:29]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:14:29]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:14:29]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:14:29]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:14:29]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:14:29]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:14:29]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:14:29]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:14:29]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:14:30]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:14:30]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:14:30]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:14:31]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:14:31]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:14:31]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:14:31]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:14:31]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:14:31]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:14:31]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:14:31]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:14:31]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:14:31]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:14:31]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:14:31]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:14:32]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:14:32]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:14:32]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:14:32]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:14:43]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:14:43]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:14:43]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:14:44]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:14:44]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:14:44]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:14:44]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:14:44]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:14:44]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:14:44]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:14:44]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:14:44]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:14:44]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:14:44]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:14:44]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:14:52]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:14:52]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:14:52]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:14:52]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:14:52]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:14:52]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:14:52]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:14:52]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:14:52]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:14:52]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:14:52]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:14:52]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:14:52]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:14:52]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:14:52]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:14:53]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:14:53]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:14:53]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:14:53]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:14:53]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:14:53]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:14:54]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:14:54]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:14:54]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:14:54]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:14:54]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:14:54]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:14:54]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:14:54]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:15:05]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:15:05]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:15:05]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:15:05]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:15:05]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:15:05]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:15:05]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:15:05]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:15:05]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:15:05]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:15:05]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:15:05]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:15:05]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:15:05]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:15:05]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:15:06]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:15:06]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:15:06]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:15:06]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:15:06]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:15:06]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:15:07]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:15:07]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:15:07]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:15:07]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:15:07]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:15:07]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:15:07]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:15:14]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:15:14]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:15:14]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:15:14]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:15:14]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:15:14]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:15:15]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:15:15]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:15:15]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:15:15]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:15:15]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:15:15]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:15:15]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:15:15]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:15:15]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:15:16]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:15:16]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:15:16]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:15:16]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:15:16]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:15:16]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:15:16]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:15:16]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:15:16]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:15:16]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:15:16]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:15:16]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:16:20]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:16:20]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:16:20]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:16:20]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:16:20]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:16:20]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:16:20]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:16:20]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:16:20]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:16:20]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:16:20]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:16:20]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:16:20]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:16:20]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:16:20]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:16:45]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:16:45]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:16:45]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:16:46]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:16:46]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:16:46]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:16:46]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:16:46]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:16:46]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:16:46]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:16:46]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:16:46]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:16:46]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:16:46]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:16:46]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:16:47]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:16:47]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:16:47]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:16:47]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:16:47]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:16:47]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:16:47]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:16:47]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:16:47]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:16:47]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:16:47]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:16:47]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:16:47]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:16:47]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:16:47]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:16:47]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:16:47]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:16:47]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:16:47]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:16:47]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:16:47]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:16:47]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:16:47]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:16:47]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:16:47]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:16:47]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:16:47]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:16:47]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:16:47]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:16:47]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:17:20]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:17:20]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:17:20]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:17:20]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:17:20]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:17:20]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:17:20]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:17:20]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:17:20]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:17:20]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:17:20]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:17:21]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:17:21]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:17:21]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:17:21]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:17:22]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:17:22]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:17:22]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:17:22]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:17:22]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:17:22]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:17:22]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:17:22]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:17:22]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:17:22]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:17:22]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:17:22]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:17:22]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:17:22]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:17:22]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:17:22]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:17:22]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:17:22]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:17:22]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:17:22]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:17:22]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:17:22]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:17:22]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:17:22]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:17:22]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:17:22]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:17:22]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:17:22]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:17:22]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:17:22]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:17:45]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:17:45]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:17:45]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:17:45]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:17:45]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:17:45]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:17:45]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:17:45]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:17:45]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:17:45]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:17:45]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:17:45]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:17:45]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:17:45]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:17:45]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:17:46]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:17:46]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:17:46]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:17:46]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:17:46]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:17:46]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:17:46]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:17:46]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:17:51]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:17:51]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:17:51]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:17:51]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:17:51]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:17:51]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:17:51]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:17:51]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:17:51]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:17:51]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:17:51]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:17:51]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:17:51]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:17:51]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:17:51]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:17:52]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:17:52]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:17:52]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:17:52]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:17:52]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:17:52]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:17:52]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:17:52]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:17:52]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:17:52]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:17:52]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:17:52]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:17:52]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:17:52]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:17:52]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:17:52]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:17:52]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:17:52]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:17:52]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:17:52]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:17:53]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:17:53]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:17:53]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:17:53]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:17:53]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:17:53]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:17:53]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:17:53]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:17:53]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:17:53]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:17:57]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:17:57]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:17:57]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:17:58]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:17:58]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:17:58]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:17:58]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:17:58]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:17:58]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:17:58]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:17:58]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:17:58]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:17:58]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:17:58]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:17:58]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:17:59]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:17:59]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:17:59]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:17:59]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:17:59]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:17:59]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:17:59]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:17:59]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:17:59]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:17:59]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:17:59]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:17:59]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:17:59]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:17:59]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:17:59]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:17:59]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:17:59]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:17:59]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:17:59]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:17:59]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:17:59]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:17:59]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:18:09]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:18:09]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:18:09]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:18:09]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:18:09]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:18:09]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:18:09]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:18:10]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:18:10]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:18:10]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:18:10]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:18:10]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:18:10]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:18:10]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:18:10]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:18:11]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:18:11]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:18:11]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:18:11]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:18:11]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:18:11]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:18:11]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:18:11]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:18:11]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:18:11]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:18:11]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:18:11]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:18:45]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:18:45]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:18:45]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:18:45]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:18:45]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:18:45]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:18:45]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:18:45]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:18:45]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:18:45]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:18:45]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:18:46]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:18:46]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:18:46]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:18:46]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:18:47]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:18:47]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:18:47]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:18:47]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:18:47]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:18:47]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:18:47]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:18:47]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:18:47]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:18:47]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:18:47]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:18:47]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:18:47]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:18:47]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:18:47]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:18:47]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:18:47]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:18:47]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:18:47]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:18:47]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:18:47]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:18:47]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:18:47]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:18:47]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:18:47]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:18:47]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:18:54]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:18:54]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:18:55]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:18:55]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:18:55]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:18:55]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:18:55]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:18:55]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:18:55]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:18:55]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:18:55]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:18:55]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:18:55]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:18:55]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:18:55]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:20:04]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:20:04]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:20:04]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:20:04]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:20:04]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:20:04]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:20:04]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:20:04]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:20:05]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:20:05]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:20:05]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:20:05]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:20:05]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:20:05]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:20:05]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:21:44]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:21:44]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:21:44]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:21:44]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:21:44]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:21:44]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:21:44]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:21:44]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:21:44]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:21:44]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:21:44]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:21:44]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:21:44]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:21:44]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:21:44]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:31:58]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:31:58]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:31:58]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:31:58]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:31:58]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:31:58]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:31:58]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:31:58]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:31:58]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:31:58]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:31:58]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:31:58]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:31:58]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:31:58]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:31:58]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:31:58]-[debug] Spalte status zur Tabelle bots hinzugefügt.
+[21-06-2024 - 13:32:10]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:32:10]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:32:10]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:32:10]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:32:10]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:32:10]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:32:10]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:32:10]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:32:10]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:32:10]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:32:10]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:32:10]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:32:10]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:32:10]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:32:10]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:32:10]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:32:24]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:32:24]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:32:24]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:32:25]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:32:25]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:32:25]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:32:25]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:32:25]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:32:25]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:32:25]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:32:25]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:32:25]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:32:25]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:32:25]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:32:25]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:32:25]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:32:26]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:32:26]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:32:26]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:32:26]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:32:26]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:32:26]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:32:26]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:32:26]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:32:26]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:32:26]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:32:26]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:32:26]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:32:26]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:32:26]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:32:26]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:32:26]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:32:26]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:32:26]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:32:26]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:32:26]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:32:26]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:32:26]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:32:26]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:32:26]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:32:27]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:32:27]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:32:27]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:32:27]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:32:27]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:32:27]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:32:27]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:32:27]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:32:47]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:32:47]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:32:47]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:32:47]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:32:47]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:32:47]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:32:47]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:32:47]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:32:47]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:32:47]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:32:47]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:32:47]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:32:47]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:32:47]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:32:47]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:32:47]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:32:48]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:32:48]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:32:48]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:32:48]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:32:48]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:32:48]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:32:48]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:32:48]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:32:48]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:32:48]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:32:48]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:32:48]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:32:48]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:32:48]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:32:48]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:32:48]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:32:48]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:32:48]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:32:48]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:32:48]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:32:48]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:32:48]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:32:48]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:32:48]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:32:48]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:32:49]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:32:49]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:32:49]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:32:49]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:32:49]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:32:49]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:32:49]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:32:55]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:32:55]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:32:55]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:32:55]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:32:55]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:32:55]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:32:55]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:32:55]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:32:55]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:32:55]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:32:55]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:32:55]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:32:55]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:32:55]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:32:55]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:32:55]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:32:55]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:32:55]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:32:55]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:32:55]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:32:55]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:32:55]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:32:55]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:32:55]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:32:55]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:32:56]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:32:56]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:32:56]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:32:56]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:32:56]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:32:56]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:32:56]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:33:02]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:33:02]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:33:02]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:33:02]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:33:02]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:33:02]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:33:02]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:33:02]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:33:02]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:33:02]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:33:02]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:33:02]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:33:02]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:33:02]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:33:02]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:33:02]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:33:02]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:33:02]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:33:02]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:33:02]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:33:03]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:33:03]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:33:03]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:33:03]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:33:03]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:33:03]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:33:03]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:33:03]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:33:03]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:33:03]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:33:03]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:33:03]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:33:16]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:33:16]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:33:16]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:33:16]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:33:16]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:33:16]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:33:16]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:33:16]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:33:16]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:33:16]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:33:17]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:33:17]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:33:17]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:33:17]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:33:17]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:33:17]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:33:18]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:33:18]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:33:18]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:33:18]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:33:18]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:33:18]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:33:18]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:33:18]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:33:18]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:33:18]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:33:18]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:33:18]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:33:18]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:33:18]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:33:18]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:33:18]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:33:18]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:33:18]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:33:18]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:33:18]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:33:18]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:33:18]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:33:18]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:33:18]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:33:18]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:33:18]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:33:18]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:33:18]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:33:18]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:33:18]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:33:18]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:33:18]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:33:34]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:33:34]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:33:34]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:33:34]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:33:34]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:33:34]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:33:34]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:33:34]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:33:34]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:33:34]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:33:34]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:33:34]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:33:34]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:33:35]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:33:35]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:33:35]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:33:35]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:33:36]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:33:36]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:33:36]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:33:36]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:33:36]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:33:36]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:33:36]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:33:36]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:33:36]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:33:36]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:33:36]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:33:36]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:33:36]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:33:36]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:33:36]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:34:45]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:34:45]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:34:45]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:34:45]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:34:45]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:34:45]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:34:45]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:34:46]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:34:46]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:34:46]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:34:46]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:34:46]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:34:46]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:34:46]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:34:46]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:34:46]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:34:47]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:34:47]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:34:47]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:34:47]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:34:47]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:34:47]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:34:47]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:34:47]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:34:47]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:34:47]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:34:47]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:34:47]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:34:47]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:34:47]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:34:47]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:34:47]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:36:11]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:36:11]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:36:11]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:36:11]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:36:11]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:36:11]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:36:11]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:36:11]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:36:11]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:36:11]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:36:11]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:36:11]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:36:11]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:36:11]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:36:11]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:36:11]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:36:12]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:36:12]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:36:12]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:36:12]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:36:12]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:36:12]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:36:12]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:36:12]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:36:12]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:36:12]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:36:12]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:36:12]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:36:12]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:36:12]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:36:12]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:36:12]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:37:18]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:37:18]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:37:18]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:37:18]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:37:18]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:37:18]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:37:18]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:37:18]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:37:18]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:37:18]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:37:19]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:37:19]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:37:19]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:37:19]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:37:19]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:37:19]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:37:20]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:37:20]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:37:20]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:37:20]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:37:20]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:37:20]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:37:20]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:37:20]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:37:20]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:37:20]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:37:20]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:37:20]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:37:20]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:37:20]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:37:20]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:37:20]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:38:10]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:38:10]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:38:10]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:38:10]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:38:10]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:38:10]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:38:10]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:38:10]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:38:10]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:38:10]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:38:10]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:38:11]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:38:11]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:38:11]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:38:11]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:38:11]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:38:12]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:38:12]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:38:12]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:38:12]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:38:12]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:38:12]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:38:12]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:38:12]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:38:12]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:38:12]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:38:12]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:38:12]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:38:12]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:38:12]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:38:12]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:38:12]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:38:31]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:38:32]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:38:32]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:38:32]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:38:32]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:38:32]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:38:32]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:38:32]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:38:32]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:38:32]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:38:32]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:38:32]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:38:32]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:38:32]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:38:32]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:38:32]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:38:33]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:38:33]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:38:33]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:38:33]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:38:33]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:38:33]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:38:33]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:38:33]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:38:33]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:38:33]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:38:33]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:38:33]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:38:33]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:38:33]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:38:33]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:38:34]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:39:26]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:39:26]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:39:26]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:39:26]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:39:26]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:39:26]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:39:26]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:39:26]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:39:26]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:39:26]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:39:26]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:39:26]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:39:26]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:39:26]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:39:26]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:39:26]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:39:27]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:39:27]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:39:27]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:39:27]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:39:28]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:39:28]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:39:28]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:39:28]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:39:28]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:39:28]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:39:28]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:39:28]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:39:28]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:39:28]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:39:28]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:39:28]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:39:52]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:39:52]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:39:52]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:39:52]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:39:52]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:39:52]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:39:52]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:39:52]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:39:52]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:39:52]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:39:52]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:39:52]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:39:53]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:39:53]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:39:53]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:39:53]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:39:54]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:39:54]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:39:54]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:39:54]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:39:54]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:39:54]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:39:54]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:39:54]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:39:54]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:39:54]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:39:54]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:39:54]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:39:54]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:39:54]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:39:54]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:39:54]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:40:06]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:40:06]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:40:06]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:40:06]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:40:06]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:40:06]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:40:06]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:40:06]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:40:06]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:40:06]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:40:06]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:40:06]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:40:06]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:40:06]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:40:06]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:40:06]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:40:07]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:40:07]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:40:07]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:40:07]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:40:07]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:40:07]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:40:07]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:40:07]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:40:07]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:40:07]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:40:07]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:40:07]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:40:07]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:40:07]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:40:08]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:40:08]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:45:36]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:45:36]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:45:36]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:45:36]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:45:36]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:45:36]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:45:36]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:45:36]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:45:36]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:45:36]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:45:36]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:45:36]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:45:36]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:45:36]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:45:36]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:45:36]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:45:50]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:45:50]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:45:50]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:45:51]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:45:51]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:45:51]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:45:51]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:45:51]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:45:51]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:45:51]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:45:51]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:45:51]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:45:51]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:45:51]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:45:51]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:45:51]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:48:42]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:48:42]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:48:42]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:48:43]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:48:43]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:48:43]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:48:43]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:48:43]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:48:43]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:48:43]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:48:43]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:48:43]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:48:43]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:48:43]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:48:43]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:48:43]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:48:44]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:48:44]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:48:44]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:48:44]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:48:44]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:48:44]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:48:44]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:48:44]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:48:45]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:48:45]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:48:45]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:48:45]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:48:45]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:48:45]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:48:45]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:48:45]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:49:18]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:49:18]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:49:18]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:49:18]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:49:18]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:49:18]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:49:18]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:49:18]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:49:18]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:49:18]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:49:18]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:49:18]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:49:18]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:49:18]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:49:18]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:49:18]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:49:19]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:49:19]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:49:19]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:49:48]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:49:48]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:49:48]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:49:48]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:49:48]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:49:48]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:49:48]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:49:48]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:49:48]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:49:48]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:49:48]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:49:48]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:49:48]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:49:48]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:49:48]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:49:48]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:50:39]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:50:39]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:50:39]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:50:39]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:50:39]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:50:39]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:50:39]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:50:39]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:50:39]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:50:39]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:50:39]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:50:39]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:50:39]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:50:39]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:50:39]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:50:39]-[debug] Spalte status in der Tabelle bots geändert.
+[21-06-2024 - 13:51:12]-[debug] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:51:12]-[debug] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:51:12]-[debug] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:51:12]-[debug] Spalte name in der Tabelle bots geändert.
+[21-06-2024 - 13:51:12]-[debug] Spalte premium in der Tabelle bots geändert.
+[21-06-2024 - 13:51:12]-[debug] Spalte use_db in der Tabelle bots geändert.
+[21-06-2024 - 13:51:12]-[debug] Spalte db_host in der Tabelle bots geändert.
+[21-06-2024 - 13:51:13]-[debug] Spalte db_user in der Tabelle bots geändert.
+[21-06-2024 - 13:51:13]-[debug] Spalte db_password in der Tabelle bots geändert.
+[21-06-2024 - 13:51:13]-[debug] Spalte db_name in der Tabelle bots geändert.
+[21-06-2024 - 13:51:13]-[debug] Spalte db_port in der Tabelle bots geändert.
+[21-06-2024 - 13:51:13]-[debug] Spalte projectName in der Tabelle bots geändert.
+[21-06-2024 - 13:51:13]-[debug] Spalte encryption_key in der Tabelle bots geändert.
+[21-06-2024 - 13:51:13]-[debug] Spalte add_mode in der Tabelle bots geändert.
+[21-06-2024 - 13:51:13]-[debug] Spalte created_at in der Tabelle bots geändert.
+[21-06-2024 - 13:51:13]-[debug] Spalte status in der Tabelle bots geändert.

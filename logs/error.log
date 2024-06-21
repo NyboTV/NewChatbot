@@ -1,0 +1,9 @@
+[21-06-2024 - 13:34:48]-[error] Fehler beim Initialisieren: ReferenceError: clientsDirectory is not defined
+[21-06-2024 - 13:36:13]-[error] Fehler beim Initialisieren: ReferenceError: db is not defined
+[21-06-2024 - 13:37:21]-[error] Fehler beim Initialisieren: ReferenceError: bostDB is not defined
+[21-06-2024 - 13:38:13]-[error] Fehler beim Initialisieren: ReferenceError: bostDB is not defined
+[21-06-2024 - 13:38:34]-[error] Fehler beim Initialisieren: ReferenceError: bostDB is not defined
+[21-06-2024 - 13:39:29]-[error] Fehler beim Initialisieren: ReferenceError: bostDB is not defined
+[21-06-2024 - 13:39:55]-[error] Fehler beim Initialisieren: ReferenceError: bostDB is not defined
+[21-06-2024 - 13:40:08]-[error] Fehler beim Initialisieren: TypeError: callback is not a function
+[21-06-2024 - 13:51:48]-[error] Fehler beim Initialisieren: TypeError: callback is not a function

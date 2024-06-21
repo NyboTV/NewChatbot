@@ -1,0 +1,45 @@
+[20-06-2024 - 23:39:05]-[MySQL] Unknown column 'points' in 'field list'
+[20-06-2024 - 00:00:47]-[MySQL] Unknown column 'points' in 'field list'
+[20-06-2024 - 00:02:45]-[MySQL] Unknown column 'points' in 'field list'
+[20-06-2024 - 00:05:35]-[MySQL] Unknown column 'points' in 'field list'
+[20-06-2024 - 00:09:27]-[MySQL] Unknown column 'points' in 'field list'
+[20-06-2024 - 00:09:30]-[MySQL] Unknown column 'points' in 'field list'
+[20-06-2024 - 00:09:50]-[MySQL] Unknown column 'points' in 'field list'
+[20-06-2024 - 00:10:49]-[MySQL] Unknown column 'points' in 'field list'
+[20-06-2024 - 00:11:50]-[MySQL] Unknown column 'points' in 'field list'
+[20-06-2024 - 00:13:29]-[MySQL] Unknown column 'points' in 'field list'
+[20-06-2024 - 00:14:29]-[MySQL] Unknown column 'points' in 'field list'
+[20-06-2024 - 00:15:51]-[MySQL] Unknown column 'points' in 'field list'
+[21-06-2024 - 13:40:08]-[MySQL] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0 = ?, 1 = ?, 2 = ?, 3 = ? WHERE 0 = ? AND 1 = ? AND 2 = ?' at line 1
+[21-06-2024 - 13:51:48]-[mysql] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:51:48]-[mysql] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:51:48]-[mysql] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:51:48]-[mysql] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0 = ?, 1 = ?, 2 = ?, 3 = ? WHERE 0 = ? AND 1 = ? AND 2 = ?' at line 1
+[21-06-2024 - 13:52:11]-[mysql] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:52:11]-[mysql] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:52:11]-[mysql] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:52:11]-[mysql] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0 = ?, 1 = ?, 2 = ?, 3 = ? WHERE 0 = ? AND 1 = ? AND 2 = ?' at line 1
+[21-06-2024 - 13:52:48]-[mysql] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:52:48]-[mysql] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:52:49]-[mysql] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:52:49]-[mysql] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0 = ?, 1 = ?, 2 = ?, 3 = ? WHERE 0 = ? AND 1 = ? AND 2 = ?' at line 1
+[21-06-2024 - 13:53:23]-[mysql] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:53:23]-[mysql] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:53:23]-[mysql] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:53:23]-[mysql] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0 = ?, 1 = ?, 2 = ?, 3 = ? WHERE 0 = ? AND 1 = ? AND 2 = ?' at line 1
+[21-06-2024 - 13:53:42]-[mysql] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:53:42]-[mysql] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:53:42]-[mysql] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:53:42]-[mysql] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0 = ?, 1 = ?, 2 = ?, 3 = ? WHERE 0 = ? AND 1 = ? AND 2 = ?' at line 1
+[21-06-2024 - 13:55:06]-[mysql] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:55:06]-[mysql] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:55:06]-[mysql] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:55:06]-[mysql] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0 = ?, 1 = ?, 2 = ?, 3 = ? WHERE 0 = ? AND 1 = ? AND 2 = ?' at line 1
+[21-06-2024 - 13:55:43]-[mysql] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:55:43]-[mysql] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:55:43]-[mysql] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:55:44]-[mysql] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0 = ?, 1 = ?, 2 = ?, 3 = ? WHERE 0 = ? AND 1 = ? AND 2 = ?' at line 1
+[21-06-2024 - 13:57:01]-[mysql] Spalte name in der Tabelle users geändert.
+[21-06-2024 - 13:57:01]-[mysql] Spalte password in der Tabelle users geändert.
+[21-06-2024 - 13:57:01]-[mysql] Spalte created_at in der Tabelle users geändert.
+[21-06-2024 - 13:57:01]-[mysql] Table 's30_Test_fur_gamebot.bots' doesn't exist
